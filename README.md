@@ -4,5 +4,5 @@ Project "Opening a coffee shop". Conducted an analysis of the market of public c
 ### Skills and tools
 Python, Pandas, Seaborn, Plotly
 
-### "Python Data Visualization Examples"
+### Python Data Visualization Examples
 ![Food_charts](https://github.com/yumazur/Coffee-shop-market-analysis/assets/140715941/f8c874bf-9d9a-45ab-baca-604079ea94ad)
